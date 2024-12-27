@@ -1,0 +1,66 @@
+services:
+  frontend:
+    container_name: cera_ui
+    build: ./frontend
+    ports:
+      - "5173:5173"
+    volumes:
+      - ./frontend:/app
+      - node_modules_frontend:/app/node_modules
+      - type: bind
+        source: ./frontend
+        target: /app
+        consistency: cached
+    environment:
+      - VITE_API_URL=http://localhost:3000
+    command: npm run dev -- --host
+    depends_on:
+      - backend
+
+  backend:
+    container_name: cera_api
+    build: ./backend
+    ports:
+      - "${PORT}:${PORT}"
+    volumes:
+      - ./backend:/app:delegated
+      - node_modules_backend:/app/node_modules
+      - /app/dist  # Exclut le dossier dist
+    environment:
+      - NODE_ENV=${NODE_ENV}
+      - PORT=${PORT}
+      - DB_HOST=${DB_HOST}
+      - DB_PORT=5432
+      - DB_USER=${DB_USER}
+      - DB_PASSWORD=${DB_PASSWORD}
+      - DB_DATABASE=${DB_DATABASE}
+      - DEBUG=${DEBUG}
+      - FRONTEND_URL=${FRONTEND_URL}
+      - DATABASE_URL=postgresql://${DB_USER}:${DB_PASSWORD}@db:5432/${DB_DATABASE}
+      - JWT_SECRET=${JWT_SECRET}
+      - JWT_EXPIRES_IN=${JWT_EXPIRES_IN} 
+      - JWT_COOKIE_EXPIRES_IN=${JWT_COOKIE_EXPIRES_IN}
+      - ROUNDS=${ROUNDS}
+      - TOKEN_SECRET=${TOKEN_SECRET}
+      - CHOKIDAR_USEPOLLING=true  # Active le polling pour le hot reload
+    command: npm run dev  # Utilise ts-node-dev directement
+    depends_on:
+      - db
+
+  db:
+    container_name: cera_db
+    image: postgres:16-alpine3.21
+    ports:
+      - "5433:5432"
+    environment:
+      - POSTGRES_USER=${DB_USER}
+      - POSTGRES_PASSWORD=${DB_PASSWORD}
+      - POSTGRES_DB=${DB_DATABASE}
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./init-scripts:/docker-entrypoint-initdb.d
+
+volumes:
+  node_modules_frontend:
+  node_modules_backend:
+  postgres_data:

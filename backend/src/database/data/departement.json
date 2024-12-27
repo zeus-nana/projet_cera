@@ -1,0 +1,252 @@
+[
+  {
+    "departement": "VINA",
+    "region_id": 1,
+    "region": "Adamaoua"
+  },
+  {
+    "departement": "FARO ET DEO",
+    "region_id": 1,
+    "region": "Adamaoua"
+  },
+  {
+    "departement": "MBERE",
+    "region_id": 1,
+    "region": "Adamaoua"
+  },
+  {
+    "departement": "DJEREM",
+    "region_id": 1,
+    "region": "Adamaoua"
+  },
+  {
+    "departement": "NYONG-MFOUMOU",
+    "region_id": 2,
+    "region": "Centre"
+  },
+  {
+    "departement": "MFOUNDI",
+    "region_id": 2,
+    "region": "Centre"
+  },
+  {
+    "departement": "MEFOU-AFAMBA",
+    "region_id": 2,
+    "region": "Centre"
+  },
+  {
+    "departement": "MBAM-INOUBOU",
+    "region_id": 2,
+    "region": "Centre"
+  },
+  {
+    "departement": "MBAM-KIM",
+    "region_id": 2,
+    "region": "Centre"
+  },
+  {
+    "departement": "MEFOU ET AKONO",
+    "region_id": 2,
+    "region": "Centre"
+  },
+  {
+    "departement": "OCEAN",
+    "region_id": 2,
+    "region": "Centre"
+  },
+  {
+    "departement": "NYONG ET KELLE",
+    "region_id": 2,
+    "region": "Centre"
+  },
+  {
+    "departement": "LEKIE",
+    "region_id": 2,
+    "region": "Centre"
+  },
+  {
+    "departement": "NYONG ET SO'O",
+    "region_id": 2,
+    "region": "Centre"
+  },
+  {
+    "departement": "HAUTE-SANAGA",
+    "region_id": 2,
+    "region": "Centre"
+  },
+  {
+    "departement": "LOM ET DJEREM",
+    "region_id": 3,
+    "region": "Est"
+  },
+  {
+    "departement": "HAUT NYONG",
+    "region_id": 3,
+    "region": "Est"
+  },
+  {
+    "departement": "BOUMBA ET NGOKO",
+    "region_id": 3,
+    "region": "Est"
+  },
+  {
+    "departement": "KADEY",
+    "region_id": 3,
+    "region": "Est"
+  },
+  {
+    "departement": "BETARE-OYA",
+    "region_id": 3,
+    "region": "Est"
+  },
+  {
+    "departement": "MAYO TSANAGA",
+    "region_id": 4,
+    "region": "Extreme-Nord"
+  },
+  {
+    "departement": "DIAMARE",
+    "region_id": 4,
+    "region": "Extreme-Nord"
+  },
+  {
+    "departement": "MAYO KANI",
+    "region_id": 4,
+    "region": "Extreme-Nord"
+  },
+  {
+    "departement": "LOGONE ET CHARI",
+    "region_id": 4,
+    "region": "Extreme-Nord"
+  },
+  {
+    "departement": "MAYO DANAY",
+    "region_id": 4,
+    "region": "Extreme-Nord"
+  },
+  {
+    "departement": "MOUNGO",
+    "region_id": 5,
+    "region": "Littoral"
+  },
+  {
+    "departement": "WOURI",
+    "region_id": 5,
+    "region": "Littoral"
+  },
+  {
+    "departement": "SANAGA MARITIME",
+    "region_id": 5,
+    "region": "Littoral"
+  },
+  {
+    "departement": "BENOUE",
+    "region_id": 6,
+    "region": "Nord"
+  },
+  {
+    "departement": "FARO",
+    "region_id": 6,
+    "region": "Nord"
+  },
+  {
+    "departement": "MAYO REY",
+    "region_id": 6,
+    "region": "Nord"
+  },
+  {
+    "departement": "BAMBOUTOS",
+    "region_id": 8,
+    "region": "Ouest"
+  },
+  {
+    "departement": "HAUT NKAM",
+    "region_id": 8,
+    "region": "Ouest"
+  },
+  {
+    "departement": "MENOUA",
+    "region_id": 8,
+    "region": "Ouest"
+  },
+  {
+    "departement": "MIFI",
+    "region_id": 8,
+    "region": "Ouest"
+  },
+  {
+    "departement": "HAUTS PLATEAUX",
+    "region_id": 8,
+    "region": "Ouest"
+  },
+  {
+    "departement": "KOUNG KHI",
+    "region_id": 8,
+    "region": "Ouest"
+  },
+  {
+    "departement": "NDE",
+    "region_id": 8,
+    "region": "Ouest"
+  },
+  {
+    "departement": "NOUN",
+    "region_id": 8,
+    "region": "Ouest"
+  },
+  {
+    "departement": "MAYO BANYO",
+    "region_id": 8,
+    "region": "Ouest"
+  },
+  {
+    "departement": "MAYO LOUTI",
+    "region_id": 8,
+    "region": "Ouest"
+  },
+  {
+    "departement": "BAYANGAM",
+    "region_id": 8,
+    "region": "Ouest"
+  },
+  {
+    "departement": "NKAM",
+    "region_id": 8,
+    "region": "Ouest"
+  },
+  {
+    "departement": "VALLEE DU NTEM",
+    "region_id": 9,
+    "region": "Sud"
+  },
+  {
+    "departement": "DJA ET LOBO",
+    "region_id": 9,
+    "region": "Sud"
+  },
+  {
+    "departement": "MVILA",
+    "region_id": 9,
+    "region": "Sud"
+  },
+  {
+    "departement": "MINTOM",
+    "region_id": 9,
+    "region": "Sud"
+  },
+  {
+    "departement": "MEZAM",
+    "region_id": 10,
+    "region": "Sud-Ouest"
+  },
+  {
+    "departement": "FAKO",
+    "region_id": 10,
+    "region": "Sud-Ouest"
+  },
+  {
+    "departement": "MEME",
+    "region_id": 10,
+    "region": "Sud-Ouest"
+  }
+]

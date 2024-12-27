@@ -1,0 +1,707 @@
+[
+  {
+    "commune": "BIBEMI",
+    "arrondissement": "BIBEMI",
+    "departement": "BENOUE"
+  },
+  {
+    "commune": "GAROUA",
+    "arrondissement": "GAROUA 1ER",
+    "departement": "BENOUE"
+  },
+  {
+    "commune": "DEMSA",
+    "arrondissement": "DEMSA",
+    "departement": "BENOUE"
+  },
+  {
+    "commune": "LAGDO",
+    "arrondissement": "LAGDO",
+    "departement": "BENOUE"
+  },
+  {
+    "commune": "NGONG",
+    "arrondissement": "TCHEBOA",
+    "departement": "BENOUE"
+  },
+  {
+    "commune": "PITOA",
+    "arrondissement": "PITOA",
+    "departement": "BENOUE"
+  },
+  {
+    "commune": "AKONOLINGA",
+    "arrondissement": "AKONOLINGA",
+    "departement": "NYONG-MFOUMOU"
+  },
+  {
+    "commune": "AYOS",
+    "arrondissement": "AYOS",
+    "departement": "NYONG-MFOUMOU"
+  },
+  {
+    "commune": "AMBAM",
+    "arrondissement": "AMBAM",
+    "departement": "VALLEE DU NTEM"
+  },
+  {
+    "commune": "KYE OSSI",
+    "arrondissement": "KYE OSSI",
+    "departement": "VALLEE DU NTEM"
+  },
+  {
+    "commune": "MA'AN",
+    "arrondissement": "MA'AN",
+    "departement": "VALLEE DU NTEM"
+  },
+  {
+    "commune": "YAOUNDE",
+    "arrondissement": "YAOUNDE I",
+    "departement": "MFOUNDI"
+  },
+  {
+    "commune": "AWAE",
+    "arrondissement": "AWAE",
+    "departement": "MEFOU-AFAMBA"
+  },
+  {
+    "commune": "MFOU",
+    "arrondissement": "MFOU",
+    "departement": "MEFOU-AFAMBA"
+  },
+  {
+    "commune": "SOA",
+    "arrondissement": "SOA",
+    "departement": "MEFOU-AFAMBA"
+  },
+  {
+    "commune": "BABADJOU",
+    "arrondissement": "BABADJOU",
+    "departement": "BAMBOUTOS"
+  },
+  {
+    "commune": "GALIM",
+    "arrondissement": "GALIM",
+    "departement": "BAMBOUTOS"
+  },
+  {
+    "commune": "MBOUDA",
+    "arrondissement": "MBOUDA",
+    "departement": "BAMBOUTOS"
+  },
+  {
+    "commune": "BAFANG",
+    "arrondissement": "BAFANG",
+    "departement": "HAUT NKAM"
+  },
+  {
+    "commune": "BANKA",
+    "arrondissement": "BANKA",
+    "departement": "HAUT NKAM"
+  },
+  {
+    "commune": "KEKEM",
+    "arrondissement": "KEKEM",
+    "departement": "HAUT NKAM"
+  },
+  {
+    "commune": "BAFIA",
+    "arrondissement": "BAFIA",
+    "departement": "MBAM-INOUBOU"
+  },
+  {
+    "commune": "BOKITO",
+    "arrondissement": "BOKITO",
+    "departement": "MBAM-INOUBOU"
+  },
+  {
+    "commune": "MAKENENE",
+    "arrondissement": "MAKENENE",
+    "departement": "MBAM-INOUBOU"
+  },
+  {
+    "commune": "NDIKINIMEKI",
+    "arrondissement": "NDIKINIMEKI",
+    "departement": "MBAM-INOUBOU"
+  },
+  {
+    "commune": "OMBESSA",
+    "arrondissement": "OMBESSA",
+    "departement": "MBAM-INOUBOU"
+  },
+  {
+    "commune": "NKONG-ZEM",
+    "arrondissement": "NKONG-NI",
+    "departement": "MENOUA"
+  },
+  {
+    "commune": "PENKA-MICHEL",
+    "arrondissement": "PENKA-MICHEL",
+    "departement": "MENOUA"
+  },
+  {
+    "commune": "DSCHANG",
+    "arrondissement": "DSCHANG",
+    "departement": "MENOUA"
+  },
+  {
+    "commune": "FOKOUE",
+    "arrondissement": "FOKOUE",
+    "departement": "MENOUA"
+  },
+  {
+    "commune": "SANTCHOU",
+    "arrondissement": "SANTCHOU",
+    "departement": "MENOUA"
+  },
+  {
+    "commune": "BAFOUSSAM",
+    "arrondissement": "BAFOUSSAM 1ER",
+    "departement": "MIFI"
+  },
+  {
+    "commune": "BAHAM",
+    "arrondissement": "BAHAM",
+    "departement": "HAUTS PLATEAUX"
+  },
+  {
+    "commune": "BAMENDJOU",
+    "arrondissement": "BAMENDJOU",
+    "departement": "HAUTS PLATEAUX"
+  },
+  {
+    "commune": "BANGOU",
+    "arrondissement": "BANGOU",
+    "departement": "HAUTS PLATEAUX"
+  },
+  {
+    "commune": "BATIE",
+    "arrondissement": "BATIE",
+    "departement": "HAUTS PLATEAUX"
+  },
+  {
+    "commune": "TUBAH",
+    "arrondissement": "TUBAH",
+    "departement": "MEZAM"
+  },
+  {
+    "commune": "BAMENDA",
+    "arrondissement": "BAMENDA 1ER",
+    "departement": "MEZAM"
+  },
+  {
+    "commune": "SANTA",
+    "arrondissement": "SANTA",
+    "departement": "MEZAM"
+  },
+  {
+    "commune": "PETTE-BANDJOUN",
+    "arrondissement": "POUMOUGNE",
+    "departement": "KOUNG KHI"
+  },
+  {
+    "commune": "DJEBEM",
+    "arrondissement": "DJEBEM",
+    "departement": "KOUNG KHI"
+  },
+  {
+    "commune": "BANGANGTE",
+    "arrondissement": "BANGANGTE",
+    "departement": "NDE"
+  },
+  {
+    "commune": "BASSAMBA",
+    "arrondissement": "BASSAMBA",
+    "departement": "NDE"
+  },
+  {
+    "commune": "BAZOU",
+    "arrondissement": "BAZOU",
+    "departement": "NDE"
+  },
+  {
+    "commune": "TONGA",
+    "arrondissement": "TONGA",
+    "departement": "NDE"
+  },
+  {
+    "commune": "MBANGASSINA",
+    "arrondissement": "MBANGASSINA",
+    "departement": "MBAM-KIM"
+  },
+  {
+    "commune": "NGAMBE-TIKAR",
+    "arrondissement": "NGAMBE-TIKAR",
+    "departement": "MBAM-KIM"
+  },
+  {
+    "commune": "NGORO",
+    "arrondissement": "NGORO",
+    "departement": "MBAM-KIM"
+  },
+  {
+    "commune": "YOKO",
+    "arrondissement": "YOKO",
+    "departement": "MBAM-KIM"
+  },
+  {
+    "commune": "KOUTABA",
+    "arrondissement": "KOUTABA",
+    "departement": "NOUN"
+  },
+  {
+    "commune": "FOUMBAN",
+    "arrondissement": "FOUMBAN",
+    "departement": "NOUN"
+  },
+  {
+    "commune": "FOUMBOT",
+    "arrondissement": "FOUMBOT",
+    "departement": "NOUN"
+  },
+  {
+    "commune": "KOUOPTAMO",
+    "arrondissement": "KOUOPTAMO",
+    "departement": "NOUN"
+  },
+  {
+    "commune": "MALENTOUEN",
+    "arrondissement": "MALENTOUEN",
+    "departement": "NOUN"
+  },
+  {
+    "commune": "NJIMON",
+    "arrondissement": "NJIMON",
+    "departement": "NOUN"
+  },
+  {
+    "commune": "MAGBA",
+    "arrondissement": "MAGBA",
+    "departement": "NOUN"
+  },
+  {
+    "commune": "BANKIM",
+    "arrondissement": "BANKIM",
+    "departement": "MAYO BANYO"
+  },
+  {
+    "commune": "MAYO-DARLE",
+    "arrondissement": "MAYO-DARLE",
+    "departement": "MAYO BANYO"
+  },
+  {
+    "commune": "MBANKOMO",
+    "arrondissement": "MBANKOMO",
+    "departement": "MEFOU ET AKONO"
+  },
+  {
+    "commune": "NGOUMOU",
+    "arrondissement": "NGOUMOU",
+    "departement": "MEFOU ET AKONO"
+  },
+  {
+    "commune": "MAYO-OULO",
+    "arrondissement": "MAYO-OULO",
+    "departement": "MAYO LOUTI"
+  },
+  {
+    "commune": "FIGUIL",
+    "arrondissement": "FIGUIL",
+    "departement": "MAYO LOUTI"
+  },
+  {
+    "commune": "BARE-BAKEM",
+    "arrondissement": "BARE-BAKEM",
+    "departement": "MOUNGO"
+  },
+  {
+    "commune": "DIBOMBARI",
+    "arrondissement": "DIBOMBARI",
+    "departement": "MOUNGO"
+  },
+  {
+    "commune": "LOUM",
+    "arrondissement": "LOUM",
+    "departement": "MOUNGO"
+  },
+  {
+    "commune": "MANJO",
+    "arrondissement": "MANJO",
+    "departement": "MOUNGO"
+  },
+  {
+    "commune": "MELONG",
+    "arrondissement": "MELONG",
+    "departement": "MOUNGO"
+  },
+  {
+    "commune": "PENJA",
+    "arrondissement": "NJOMBE-PENJA",
+    "departement": "MOUNGO"
+  },
+  {
+    "commune": "NKONGSAMBA",
+    "arrondissement": "NKONGSAMBA",
+    "departement": "MOUNGO"
+  },
+  {
+    "commune": "BONALEA",
+    "arrondissement": "FIKO",
+    "departement": "MOUNGO"
+  },
+  {
+    "commune": "BAYANGAM",
+    "arrondissement": "BAYANKAM",
+    "departement": "BAYANGAM"
+  },
+  {
+    "commune": "BELABO",
+    "arrondissement": "BELABO",
+    "departement": "LOM ET DJEREM"
+  },
+  {
+    "commune": "BERTOUA",
+    "arrondissement": "BERTOUA",
+    "departement": "LOM ET DJEREM"
+  },
+  {
+    "commune": "GAROUA-BOULAI",
+    "arrondissement": "GAROUA-BOULAÏ",
+    "departement": "LOM ET DJEREM"
+  },
+  {
+    "commune": "BELEL",
+    "arrondissement": "BELEL",
+    "departement": "VINA"
+  },
+  {
+    "commune": "NGAOUNDERE",
+    "arrondissement": "NGAOUNDERE",
+    "departement": "VINA"
+  },
+  {
+    "commune": "BENGBIS",
+    "arrondissement": "BENGBIS",
+    "departement": "DJA ET LOBO"
+  },
+  {
+    "commune": "MEYOMESSALA",
+    "arrondissement": "MEYOMESSALA",
+    "departement": "DJA ET LOBO"
+  },
+  {
+    "commune": "SANGMELIMA",
+    "arrondissement": "SANGMELIMA",
+    "departement": "DJA ET LOBO"
+  },
+  {
+    "commune": "ZOETELE",
+    "arrondissement": "ZOETELE",
+    "departement": "DJA ET LOBO"
+  },
+  {
+    "commune": "BIPINDI",
+    "arrondissement": "BIPINDI",
+    "departement": "OCEAN"
+  },
+  {
+    "commune": "CAMPO",
+    "arrondissement": "CAMPO",
+    "departement": "OCEAN"
+  },
+  {
+    "commune": "KRIBI",
+    "arrondissement": "KRIBI 1ER",
+    "departement": "OCEAN"
+  },
+  {
+    "commune": "LOLODORF",
+    "arrondissement": "LOLODORF",
+    "departement": "OCEAN"
+  },
+  {
+    "commune": "NIETE",
+    "arrondissement": "NIETE",
+    "departement": "OCEAN"
+  },
+  {
+    "commune": "BOT-MAKAK",
+    "arrondissement": "BOT-MAKAK",
+    "departement": "NYONG ET KELLE"
+  },
+  {
+    "commune": "ESEKA",
+    "arrondissement": "ESEKA",
+    "departement": "NYONG ET KELLE"
+  },
+  {
+    "commune": "MAKAK",
+    "arrondissement": "MAKAK",
+    "departement": "NYONG ET KELLE"
+  },
+  {
+    "commune": "NGOG-MAPUBI",
+    "arrondissement": "NGOG-MAPUBI",
+    "departement": "NYONG ET KELLE"
+  },
+  {
+    "commune": "DIBANG",
+    "arrondissement": "DIBANG",
+    "departement": "NYONG ET KELLE"
+  },
+  {
+    "commune": "BOURRHA",
+    "arrondissement": "BOURRHA",
+    "departement": "MAYO TSANAGA"
+  },
+  {
+    "commune": "BUEA",
+    "arrondissement": "BUEA",
+    "departement": "FAKO"
+  },
+  {
+    "commune": "TIKO",
+    "arrondissement": "TIKO",
+    "departement": "FAKO"
+  },
+  {
+    "commune": "LIMBE",
+    "arrondissement": "LIMBE 1ER",
+    "departement": "FAKO"
+  },
+  {
+    "commune": "DOUALA",
+    "arrondissement": "DOUALA 1ER",
+    "departement": "WOURI"
+  },
+  {
+    "commune": "DIMAKO",
+    "arrondissement": "DIMAKO",
+    "departement": "HAUT NYONG"
+  },
+  {
+    "commune": "DOUME",
+    "arrondissement": "DOUME",
+    "departement": "HAUT NYONG"
+  },
+  {
+    "commune": "NGUELEMENDOUKA",
+    "arrondissement": "NGUELEMENDOUKA",
+    "departement": "HAUT NYONG"
+  },
+  {
+    "commune": "NDOUKOULA",
+    "arrondissement": "NDOUKOULA",
+    "departement": "DIAMARE"
+  },
+  {
+    "commune": "MAROUA",
+    "arrondissement": "MAROUA 1ER",
+    "departement": "DIAMARE"
+  },
+  {
+    "commune": "EBEBDA",
+    "arrondissement": "EBEBDA",
+    "departement": "LEKIE"
+  },
+  {
+    "commune": "EVODOULA",
+    "arrondissement": "EVODOULA",
+    "departement": "LEKIE"
+  },
+  {
+    "commune": "MONATELE",
+    "arrondissement": "MONATELE",
+    "departement": "LEKIE"
+  },
+  {
+    "commune": "OBALA",
+    "arrondissement": "OBALA",
+    "departement": "LEKIE"
+  },
+  {
+    "commune": "OKOLA",
+    "arrondissement": "OKOLA",
+    "departement": "LEKIE"
+  },
+  {
+    "commune": "SA'A",
+    "arrondissement": "SA'A",
+    "departement": "LEKIE"
+  },
+  {
+    "commune": "EBOLOWA",
+    "arrondissement": "EBOLOWA 1ER",
+    "departement": "MVILA"
+  },
+  {
+    "commune": "MENGONG",
+    "arrondissement": "MENGONG",
+    "departement": "MVILA"
+  },
+  {
+    "commune": "NGOULEMAKONG",
+    "arrondissement": "NGOULEMAKONG",
+    "departement": "MVILA"
+  },
+  {
+    "commune": "EDEA",
+    "arrondissement": "EDEA",
+    "departement": "SANAGA MARITIME"
+  },
+  {
+    "commune": "POUMA",
+    "arrondissement": "POUMA",
+    "departement": "SANAGA MARITIME"
+  },
+  {
+    "commune": "GALIM-TIGNERE",
+    "arrondissement": "GALIM-TIGNERE",
+    "departement": "FARO ET DEO"
+  },
+  {
+    "commune": "TIGNERE",
+    "arrondissement": "TIGNERE",
+    "departement": "FARO ET DEO"
+  },
+  {
+    "commune": "GARI-GOMBO",
+    "arrondissement": "GARI-GOMBO",
+    "departement": "BOUMBA ET NGOKO"
+  },
+  {
+    "commune": "SALAPOUMBE",
+    "arrondissement": "SALAPOUMBE",
+    "departement": "BOUMBA ET NGOKO"
+  },
+  {
+    "commune": "YOKADOUMA",
+    "arrondissement": "YOKADOUMA",
+    "departement": "BOUMBA ET NGOKO"
+  },
+  {
+    "commune": "GUIDIGUIS",
+    "arrondissement": "GUIDIGUIS",
+    "departement": "MAYO KANI"
+  },
+  {
+    "commune": "KAELE",
+    "arrondissement": "KAELE",
+    "departement": "MAYO KANI"
+  },
+  {
+    "commune": "MOULVOUDAYE",
+    "arrondissement": "MOULVOUDAYE",
+    "departement": "MAYO KANI"
+  },
+  {
+    "commune": "MOUTOURWA",
+    "arrondissement": "MOUTOURWA",
+    "departement": "MAYO KANI"
+  },
+  {
+    "commune": "BOMBE",
+    "arrondissement": "BOMBE",
+    "departement": "KADEY"
+  },
+  {
+    "commune": "MBANG",
+    "arrondissement": "MBANG",
+    "departement": "KADEY"
+  },
+  {
+    "commune": "KOUSSERI",
+    "arrondissement": "KOUSSERI",
+    "departement": "LOGONE ET CHARI"
+  },
+  {
+    "commune": "DARAK",
+    "arrondissement": "DARAK",
+    "departement": "LOGONE ET CHARI"
+  },
+  {
+    "commune": "KUMBA",
+    "arrondissement": "KUMBA 1ER",
+    "departement": "MEME"
+  },
+  {
+    "commune": "MAGA",
+    "arrondissement": "MAGA",
+    "departement": "MAYO DANAY"
+  },
+  {
+    "commune": "KALFOU",
+    "arrondissement": "KALFOU",
+    "departement": "MAYO DANAY"
+  },
+  {
+    "commune": "MBALMAYO",
+    "arrondissement": "MBALMAYO",
+    "departement": "NYONG ET SO'O"
+  },
+  {
+    "commune": "NKOL-METET",
+    "arrondissement": "NKOL-METET",
+    "departement": "NYONG ET SO'O"
+  },
+  {
+    "commune": "NGOMEDZAP",
+    "arrondissement": "NGOMEDZAP",
+    "departement": "NYONG ET SO'O"
+  },
+  {
+    "commune": "MBANDJOCK",
+    "arrondissement": "MBANDJOCK",
+    "departement": "HAUTE-SANAGA"
+  },
+  {
+    "commune": "NANGA-EBOKO",
+    "arrondissement": "NANGA-EBOKO",
+    "departement": "HAUTE-SANAGA"
+  },
+  {
+    "commune": "NKOTENG",
+    "arrondissement": "NKOTENG",
+    "departement": "HAUTE-SANAGA"
+  },
+  {
+    "commune": "MINTOM",
+    "arrondissement": "MINTOM",
+    "departement": "MINTOM"
+  },
+  {
+    "commune": "BETARE-OYA",
+    "arrondissement": "NDOKAYO",
+    "departement": "BETARE-OYA"
+  },
+  {
+    "commune": "NGAOUI",
+    "arrondissement": "NGAOUI",
+    "departement": "MBERE"
+  },
+  {
+    "commune": "NGAOUNDAL",
+    "arrondissement": "NGAOUNDAL",
+    "departement": "DJEREM"
+  },
+  {
+    "commune": "NKONDJOCK",
+    "arrondissement": "NKONDJOCK",
+    "departement": "NKAM"
+  },
+  {
+    "commune": "POLI",
+    "arrondissement": "POLI",
+    "departement": "FARO"
+  },
+  {
+    "commune": "REY-BOUBA",
+    "arrondissement": "REY-BOUBA",
+    "departement": "MAYO REY"
+  },
+  {
+    "commune": "TOUBORO",
+    "arrondissement": "TOUBORO",
+    "departement": "MAYO REY"
+  }
+]
