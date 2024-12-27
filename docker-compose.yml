@@ -25,7 +25,7 @@ services:
     volumes:
       - ./backend:/app:delegated
       - node_modules_backend:/app/node_modules
-      - /app/dist  # Exclut le dossier dist
+      - /app/dist
     environment:
       - NODE_ENV=${NODE_ENV}
       - PORT=${PORT}
@@ -42,10 +42,13 @@ services:
       - JWT_COOKIE_EXPIRES_IN=${JWT_COOKIE_EXPIRES_IN}
       - ROUNDS=${ROUNDS}
       - TOKEN_SECRET=${TOKEN_SECRET}
-      - CHOKIDAR_USEPOLLING=true  # Active le polling pour le hot reload
-    command: npm run dev  # Utilise ts-node-dev directement
+      - CHOKIDAR_USEPOLLING=true
+      - REDIS_HOST=redis
+      - REDIS_PORT=6379
+    command: npm run dev
     depends_on:
       - db
+      - redis
 
   db:
     container_name: cera_db
@@ -60,7 +63,17 @@ services:
       - postgres_data:/var/lib/postgresql/data
       - ./init-scripts:/docker-entrypoint-initdb.d
 
+  redis:
+    container_name: cera_redis
+    image: redis:7-alpine
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_data:/data
+    command: redis-server --appendonly yes
+
 volumes:
   node_modules_frontend:
   node_modules_backend:
   postgres_data:
+  redis_data:

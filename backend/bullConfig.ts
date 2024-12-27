@@ -1,9 +1,10 @@
+// bullConfig.ts
 import Queue from 'bull';
 
 const redisConfig = {
   redis: {
-    host: 'localhost',
-    port: 6379,
+    host: process.env.REDIS_HOST || 'redis', // Utilise le nom du service Docker
+    port: parseInt(process.env.REDIS_PORT || '6379'),
   },
 };
 
